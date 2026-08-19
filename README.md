@@ -41,7 +41,7 @@ Os integrantes do MaratonUSP fizeram a MFP 2026 ao mesmo tempo. Acabei não tend
 Participamos da Seletiva USP e conseguimos ficar em segundo lugar da USP, conseguindo assim isenção para a participação na fase subregional da Maratona Brasileira de Programação! As posições dos times aparecem na aba standings. Nome do meu time: bing bing bing bong
 
 #
-### 09/08/2026 - [Codeforces Round 1116 (Div. 2)](https://codeforces.com/gym/106636) - 2h30
+### 09/08/2026 - [Codeforces Round 1116 (Div. 2)](https://codeforces.com/contest/2256) - 2h30
 
 Consegui resolver até a questão C relativamente rápido. A questão D era um tipo de questão que tenho dificuldade, mas consegui resolver (apesar de ter demorado um pouco).
 
@@ -65,7 +65,7 @@ Também aprendi a aplicar o Método Simplex, que estou aprendendo em Otimizaçã
 #
 ### 15/08/2026 - [Esquenta da Maratona de Programação 2026](https://esquenta-maratona-de-programa-o-2026.moj.naquadah.com.br/contest/score/?c=esquenta-maratona-de-programa-o-2026) - 5h
 
-Fiz o [Esquenta da Maratona de Programação 2026](https://esquenta-maratona-de-programa-o-2026.moj.naquadah.com.br/contest/score/?c=esquenta-maratona-de-programa-o-2026) em dupla, com um membro de outro time da Maratona Brasileira. Conseguimos fazer todos os problemas da prova e ficamos em 7º lugar entre os participantes. Durante a prova, meu computador desligou e travou enquanto eu codava o último problema, então eu expliquei a ideia para a minha dupla e ele escreveu o código enquanto eu ajudava, e no fim conseguimos passar o problema. A prova estava relativamente fácil, mas a experiência do último problema foi um bom desafio que tornou o processo mais divertido.
+Fiz o [Esquenta da Maratona de Programação 2026](https://esquenta-maratona-de-programa-o-2026.moj.naquadah.com.br/contest/score/?c=esquenta-maratona-de-programa-o-2026) em dupla, com um membro de outro time da Maratona Brasileira. Conseguimos fazer todos os problemas da prova e ficamos em 7º lugar entre os participantes. Durante a prova, meu computador desligou e travou enquanto eu codava o último problema, então eu expliquei a ideia para a minha dupla e ele escreveu o código enquanto eu ajudava, e no fim conseguimos passar o problema. A prova estava relativamente fácil, mas a experiência do último problema foi um bom desafio que tornou o processo mais divertido. Nome do time: Segment Tree 2D Persistente com Lazy Propagation.
 
 #
 ### 16/08/2026 - [XIII Maratona Mineira de Programação](https://codeforces.com/gym/106552) - 5h
@@ -73,18 +73,18 @@ Fiz o [Esquenta da Maratona de Programação 2026](https://esquenta-maratona-de-
 Simulei a [XIII Maratona Mineira de Programação](https://codeforces.com/gym/106552) com meu time. Conseguimos ficar em 22º lugar entre os participantes, com mais 2 problemas que sabíamos resolver, mas não deu tempo de enviar a tempo. Apesar dessa frustração, gostamos bastante da nossa primeira experiência com a Maratona Mineira
 
 #
-### 17/08/2026 - Problema do Codeforces, Contest e [X Maratona Mineira de Programação](https://codeforces.com/gym/106636) - 7h30
+### 17/08/2026 - Problema do Codeforces, Contest e [X Maratona Mineira de Programação](https://codeforces.com/group/YgJmumGtHD/contest/446227) - 7h30
 
 Problema [Array Replacement](https://codeforces.com/contest/2252/problem/D), da faixa dos 1700 de rating
 
 Contest [Codeforces Round 1117 (Div. 2)](https://codeforces.com/contest/2257). Fiz até o problema C bem rápido, ficando na frente de vários competidores fortes do Brasil, mas acabei demorando na D. Apesar disso, ainda consegui ganhar rating
 
-Simulei [X Maratona Mineira de Programação](https://codeforces.com/gym/106636) com outro time da USP que vai participar da Maratona Brasileira de Programação. Conseguimos ficar em 6º lugar entre os participantes, empatando com o 1º lugar em número de problemas e perdendo apenas no desempate. Gostei bastante da experiência de fazer uma prova com outro time.
+Simulei [X Maratona Mineira de Programação](https://codeforces.com/group/YgJmumGtHD/contest/446227) com outro time da USP que vai participar da Maratona Brasileira de Programação. Conseguimos ficar em 6º lugar entre os participantes, empatando com o 1º lugar em número de problemas e perdendo apenas no desempate. Gostei bastante da experiência de fazer uma prova com outro time.
 
 #
 ### 18/08/2026 - Upsolving - 3h
 
-Upsolving do problema H da [XIII Maratona Mineira de Programação](https://codeforces.com/gym/106636). Fizemos essa questão durante a prova de outro jeito, agora codei com a solução esperada usando Centroid Decomposition.
+Upsolving do problema H da [XIII Maratona Mineira de Programação](https://codeforces.com/group/YgJmumGtHD/contest/106552). Fizemos essa questão durante a prova de outro jeito, agora codei com a solução esperada usando Centroid Decomposition.
 
 Upsolving dos problemas N e L da [X Maratona Mineira de Programação](https://codeforces.com/group/YgJmumGtHD/contest/446227). Fizemos a N questão durante a prova, mas quis fazer leves alterações no código para testar se eu entendi corretamente o Fast Walsh Hadamard Transform. Pensei por bastante tempo na L durante a prova, mas não consegui resolver. Vendo o editorial, descobri que é possível criar uma estrutura que combina a ideia da HLD com a do Euler Tour, e assim fazer updates e queries de caminho e de sub-árvore, o que praticamente resolve o problema.
 

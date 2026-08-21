@@ -94,3 +94,15 @@ Upsolving dos problemas N e L da [X Maratona Mineira de Programação](https://c
 Problema [Permutation Cuts](https://codeforces.com/contest/2249/problem/B), da faixa dos 1700 de rating
 
 #
+
+### 20/08/2026 - Problema do Codeforces e Conteúdo - 3h
+
+Problema [The 67th Iteration of "Counting is Fun"](https://codeforces.com/contest/2218/problem/G), da faixa dos 1800 de rating
+
+Estudei Teorema Chinês dos Restos. Aprendi o teorema e algumas aplicações por meio da página do [CP Algorithms](https://cp-algorithms.com/algebra/chinese-remainder-theorem.html) e resolvi alguns exercícios da [Ultimate Topic List](https://youkn0wwho.academy/topic-list/crt). Os exercícios resolvidos foram [Chinese Remainder](https://open.kattis.com/problems/chineseremainder), [Chinese Remainder Theorem (non-relatively prime moduli)](https://open.kattis.com/problems/generalchineseremainder) e [Monkey Tradition](https://lightoj.com/problem/monkey-tradition).
+
+#
+
+### 21/08/2026 - Problema do Codeforces - 30min
+
+Problema [Equal Multisets (Hard Version)](https://codeforces.com/contest/2211/problem/C2), da faixa dos 1800 de rating

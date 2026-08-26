@@ -106,3 +106,22 @@ Estudei Teorema Chinês dos Restos. Aprendi o teorema e algumas aplicações por
 ### 21/08/2026 - Problema do Codeforces - 30min
 
 Problema [Equal Multisets (Hard Version)](https://codeforces.com/contest/2211/problem/C2), da faixa dos 1800 de rating
+
+#
+### 22/08/2026 - [IX Maratona Mineira](https://codeforces.com/group/YgJmumGtHD/contest/103794) e Upsolving - 6h
+
+Fiz a [IX Maratona Mineira de Programação](https://codeforces.com/group/YgJmumGtHD/contest/103794) em dupla, com um membro do meu time. Tínhamos uma ideia para o problema N (o mais difícil da prova), mas não conseguimos passar dentro das 5 horas. Após o fim da prova, fizemos o upsolving desse problema e conseguimos resolver.
+
+#
+### 23/08/2026 - [Fase Subregional de 2024](https://codeforces.com/gym/105327) - 5h
+Fiz a [Fase Subregional da Maratona de Programação de 2024](https://codeforces.com/gym/105327) junto com meu time. Tivemos um bom desempenho, ficando em 7º lugar em comparação com os times que fizeram a prova oficial. A prova tinha um problema difícil, que podia ser reduzido em vários sub-problemas, e um deles precisava de conhecimento em  strings, e ficamos bem felizes por resolver ele durante a prova.
+
+#
+### 24/08/2026 - Upsolving - 1h
+
+Upsolving do problema M da [Fase Subregional da Maratona de Programação de 2022](https://codeforces.com/gym/103960).
+
+#
+### 25/08/2026 - [Ensaio da Maratona Brasileira de 2026](https://ensaio-times-2026.moj.naquadah.com.br/contest/score/?c=ensaio-times-2026) - 5h
+
+Fiz o [Ensaio da Maratona Brasileira de 2026](https://ensaio-times-2026.moj.naquadah.com.br/contest/score/?c=ensaio-times-2026), com um membro do meu time e um membro de outro time. Essa prova foi produzida pelo time da SBC para testar o novo ambiente de prova, e a prova em si era uma prova antiga produzida pela UnB.

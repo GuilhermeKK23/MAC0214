@@ -124,4 +124,19 @@ Upsolving do problema M da [Fase Subregional da Maratona de Programação de 202
 #
 ### 25/08/2026 - [Ensaio da Maratona Brasileira de 2026](https://ensaio-times-2026.moj.naquadah.com.br/contest/score/?c=ensaio-times-2026) - 5h
 
-Fiz o [Ensaio da Maratona Brasileira de 2026](https://ensaio-times-2026.moj.naquadah.com.br/contest/score/?c=ensaio-times-2026), com um membro do meu time e um membro de outro time. Essa prova foi produzida pelo time da SBC para testar o novo ambiente de prova, e a prova em si era uma prova antiga produzida pela UnB.
+Fiz o [Ensaio da Maratona Brasileira de 2026](https://ensaio-times-2026.moj.naquadah.com.br/contest/score/?c=ensaio-times-2026), com um membro do meu time e um membro de outro time. Essa prova foi produzida pelo time da SBC para testar o novo ambiente de prova, e a prova em si era uma prova antiga produzida pela UnB. Fizemos a prova no nome do Murilo Kataoka, do meu time.
+
+#
+### 26/08/2026 - Upsolving - 1h
+
+Resolvi as questões F, G, H e K do [Ensaio da Maratona Brasileira de 2026](https://codeforces.com/group/btcK4I5D5f/contest/564296) no Codeforces.
+
+#
+### 28/08/2026 - [I Maratona Nordestina de Programação](https://codeforces.com/gym/106667) - 5h
+
+Fiz a [I Maratona Nordestina de Programação](https://codeforces.com/gym/106667) com meu time. Essa foi a última prova que fizemos antes da Subregional
+
+#
+### 29/08/2026 - [Fase Subregional da Maratona Brasileira de Programação](https://animeitor.naquadah.com.br/?contest=brasil&sede=Brasil) - 5h
+
+Apesar de alguns problemas técnicos, conseguimos ficar em 3º da sede e 29º do Brasil. Infelizmente, dois problemas que sabíamos resolver não passaram, então não nos classificamos para Final Brasileira. O nome do nosso time é Tung Tung Tung Six Seven.

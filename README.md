@@ -140,3 +140,13 @@ Fiz a [I Maratona Nordestina de Programação](https://codeforces.com/gym/106667
 ### 29/08/2026 - [Fase Subregional da Maratona Brasileira de Programação](https://animeitor.naquadah.com.br/?contest=brasil&sede=Brasil) - 5h
 
 Apesar de alguns problemas técnicos, conseguimos ficar em 3º da sede e 29º do Brasil. Infelizmente, dois problemas que sabíamos resolver não passaram, então não nos classificamos para Final Brasileira. O nome do nosso time é Tung Tung Tung Six Seven.
+
+#
+### 08/09/2026 - Contest e Upsolving - 4h
+
+Fiz o [Educational Codeforces Round 194 (Rated for Div. 2)](https://codeforces.com/contest/2260) até o C durante o contest, e depois upsolvei o D e o E, e comecei o upsolving da F
+
+#
+### 09/09/2026 - Upsolving - 1h
+
+Fiz o upsolving da F do contest do dia anterior

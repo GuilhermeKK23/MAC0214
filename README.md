@@ -149,4 +149,14 @@ Fiz o [Educational Codeforces Round 194 (Rated for Div. 2)](https://codeforces.c
 #
 ### 09/09/2026 - Upsolving - 1h
 
-Fiz o upsolving da F do contest do dia anterior
+Terminei o upsolving da F do contest do dia anterior
+
+#
+### 10/09/2026 - Upsolving - 2h
+
+Fiz o upsolving da E do [Codeforces Round 1117 (Div. 2)](https://codeforces.com/contest/2257)
+
+#
+### 11/09/2026 - Upsolving - 1h
+
+Comecei o upsolving da [Subregional](https://codeforces.com/gym/106679). Fiz os problemas A, C, E, I e K.

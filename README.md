@@ -160,3 +160,13 @@ Fiz o upsolving da E do [Codeforces Round 1117 (Div. 2)](https://codeforces.com/
 ### 11/09/2026 - Upsolving - 1h
 
 Comecei o upsolving da [Subregional](https://codeforces.com/gym/106679). Fiz os problemas A, C, E, I e K.
+
+#
+### 12/09/2026 - Contest e Upsolving - 4h
+
+Fiz o [Codeforces Round 1120 (Div. 2)](https://codeforces.com/contest/2263) e upsolvei a D
+
+#
+### 13/09/2026 - Contest - 2h
+
+Fiz o [Codeforces Round 1121 (Div. 2)](https://codeforces.com/contest/2264)

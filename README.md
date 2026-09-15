@@ -175,3 +175,8 @@ Fiz o [Codeforces Round 1121 (Div. 2)](https://codeforces.com/contest/2264)
 ### 14/09/2026 - Upsolving - 1h
 
 Upsolvei a C2 do [Codeforces Round 1120 (Div. 2)](https://codeforces.com/contest/2263)
+
+#
+### 15/09/2026 - Upsolving - 1h
+
+Upsolvei a F da [Subregional](https://codeforces.com/gym/106679) e comecei a upsolvar a E do [Codeforces Round 1120 (Div. 2)](https://codeforces.com/contest/2263)

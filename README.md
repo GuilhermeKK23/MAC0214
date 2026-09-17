@@ -180,3 +180,8 @@ Upsolvei a C2 do [Codeforces Round 1120 (Div. 2)](https://codeforces.com/contest
 ### 15/09/2026 - Upsolving - 1h
 
 Upsolvei a F da [Subregional](https://codeforces.com/gym/106679) e comecei a upsolvar a E do [Codeforces Round 1120 (Div. 2)](https://codeforces.com/contest/2263)
+
+#
+### 17/09/2026 - Upsolving - 2h
+
+Upsolvei a E do [Codeforces Round 1120 (Div. 2)](https://codeforces.com/contest/2263). Pensei nesse problema durante alguns dias e tive quase todas as observações sozinho, mas não consegui resolver, então olhei o editorial para ver a última observação que faltava, e depois disso foi bem fácil codar.

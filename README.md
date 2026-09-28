@@ -9,6 +9,29 @@ Provas e simulados em time:
 Estudo de conteúdo, contests individuais, problemas do problemset, e upsolving:
 
 #
+## Agosto
+
+Provas em time: 45h
+
+Estudo de conteúdo: 4h
+
+Contests individuais, problemas do problemset e upsolving: 28h30
+
+Tempo total: 77h30
+
+#
+
+## Setembro
+
+Provas em time: 0h
+
+Estudo de conteúdo: 0h
+
+Contests individuais, problemas do problemset e upsolving: 22h45
+
+Tempo total:
+
+#
 ### 03/08/2026 - Problema do Codeforces e Upsolving - 1h
 
 Resolvi o problema [Simons and Beating Peaks](https://codeforces.com/contest/2205/problem/D), da faixa dos 1700 de rating
@@ -185,3 +208,13 @@ Upsolvei a F da [Subregional](https://codeforces.com/gym/106679) e comecei a ups
 ### 17/09/2026 - Upsolving - 2h
 
 Upsolvei a E do [Codeforces Round 1120 (Div. 2)](https://codeforces.com/contest/2263). Pensei nesse problema durante alguns dias e tive quase todas as observações sozinho, mas não consegui resolver, então olhei o editorial para ver a última observação que faltava, e depois disso foi bem fácil codar.
+
+#
+### 25/09/2026 - Contest - 2h15
+
+Fiz o Codeforces [Round 1123 (Div. 2)](https://codeforces.com/contest/2267). Fiquei bem feliz com a minha performance, até a D eu estava ganhando de vários mestres do Brasil e estava com performance de 2100 de rating. Depois disso, pensei bastante na E e não consegui fazer, mas consegui fazer a F1.
+
+#
+### 26/09/2026 - Contest - 2h30
+
+Fiz o [Codeforces Round 1124 (Div. 2)](https://codeforces.com/contest/2269). Infelizmente demorei mais do que eu queria para fazer os problemas, e como o E estava muito mais difícil que o D, uma faixa gigante de participantes fez até o D, e isso fez com que eu perdesse um pouco de rating.

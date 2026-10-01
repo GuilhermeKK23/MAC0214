@@ -229,7 +229,7 @@ Hoje li sobre otimizações de DP em geral, e comecei a estudar a Otimização d
 #
 ### 28/09/2026 - Conteúdo - 1h
 
-Continuei estudando Otimização de Knuth, e resolvi o problema [Optimal Binary Search Tree], que usa Otimização de Knuth.(https://vjudge.net/contest/824525#problem/A)
+Continuei estudando Otimização de Knuth, e resolvi o problema [Optimal Binary Search Tree](https://vjudge.net/contest/824525#problem/A), que usa Otimização de Knuth.
 
 #
 ### 30/09/2026 - Conteúdo - 1h

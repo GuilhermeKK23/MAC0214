@@ -15,9 +15,9 @@ Provas em time: 45h
 
 Estudo de conteúdo: 4h
 
-Contests individuais, problemas do problemset e upsolving: 28h30
+Contests individuais, problemas do problemset e upsolving: 28h30min
 
-Tempo total: 77h30
+Tempo total: 77h30min
 
 #
 
@@ -25,11 +25,11 @@ Tempo total: 77h30
 
 Provas em time: 0h
 
-Estudo de conteúdo: 0h
+Estudo de conteúdo: 5h
 
-Contests individuais, problemas do problemset e upsolving: 22h45
+Contests individuais, problemas do problemset e upsolving: 22h45min
 
-Tempo total:
+Tempo total: 27h45min
 
 #
 ### 03/08/2026 - Problema do Codeforces e Upsolving - 1h
@@ -218,3 +218,20 @@ Fiz o Codeforces [Round 1123 (Div. 2)](https://codeforces.com/contest/2267). Fiq
 ### 26/09/2026 - Contest - 2h30
 
 Fiz o [Codeforces Round 1124 (Div. 2)](https://codeforces.com/contest/2269). Infelizmente demorei mais do que eu queria para fazer os problemas, e como o E estava muito mais difícil que o D, uma faixa gigante de participantes fez até o D, e isso fez com que eu perdesse um pouco de rating.
+
+#
+### 27/09/2026 - Conteúdo - 3h
+
+Comecei a estudar Otimização de DP. Para aprender os conteúdos, estou usando principalmente a [página do CP Algorithms](https://cp-algorithms.com/dynamic_programming/intro-to-dp.html) e um [material de otimização de DP de uma edição passada da Summer School](https://maratona.ic.unicamp.br/MaratonaVerao2017/documents/dp.pdf). Para praticar, estou resolvendo problemas da página do CP Algorithms e da [seção de DP da Ultimate Topic List](https://youkn0wwho.academy/topic-list).
+
+Hoje li sobre otimizações de DP em geral, e comecei a estudar a Otimização de Knuth para problemas de Range DP. Fiquei bem interesado nela pois vimos alguns problemas clássicos de DP em Análise de Algoritmos com solução O(N^3), mas que podiam ser otimizadas usando Knuth para ficar O(N^2).
+
+#
+### 28/09/2026 - Conteúdo - 1h
+
+Continuei estudando Otimização de Knuth, e resolvi o problema [Optimal Binary Search Tree], que usa Otimização de Knuth.(https://vjudge.net/contest/824525#problem/A)
+
+#
+### 30/09/2026 - Conteúdo - 1h
+
+Resolvi o problema [Breaking String](https://www.spoj.com/problems/BRKSTRNG/), que usa Otimização de Knuth.

@@ -2,11 +2,17 @@
 
 Perfil no Codeforces: [GuilhermeKK](https://codeforces.com/profile/GuilhermeKK)
 
+Grupos para ter acesso a certos contests:
+
+Materiais de referência:
+
+Provas em time:
+
+Estudo de conteúdo:
+
+Contests individuais, problemas do problemset e upsolving:
+
 Tempo total:
-
-Provas e simulados em time:
-
-Estudo de conteúdo, contests individuais, problemas do problemset, e upsolving:
 
 #
 ## Agosto
@@ -32,6 +38,18 @@ Contests individuais, problemas do problemset e upsolving: 22h45min
 Tempo total: 27h45min
 
 #
+
+## Outubro
+
+Provas em time: 5h
+
+Estudo de conteúdo: 0h
+
+Contests individuais, problemas do problemset e upsolving: 0h
+
+Tempo total: 5h
+
+#
 ### 03/08/2026 - Problema do Codeforces e Upsolving - 1h
 
 Resolvi o problema [Simons and Beating Peaks](https://codeforces.com/contest/2205/problem/D), da faixa dos 1700 de rating
@@ -54,19 +72,19 @@ Resolvi o problema [Recollect Numbers](https://codeforces.com/contest/2201/probl
 Resolvi o problema [Anya Loves Trees!](https://codeforces.com/contest/2244/problem/F), da faixa dos 1700 de rating.
 
 #
-### 07/08/2026 - [Maratona Feminina de Programação 2026](https://codeforces.com/group/9CNwiex6Ir/contest/708414) - 4h
+### 07/08/2026 - Simulado individual - 4h
 
-Os integrantes do MaratonUSP fizeram a MFP 2026 ao mesmo tempo. Acabei não tendo uma performance tão boa comparativamente, mas foi bem legal competir com as outras pessoas em tempo real.
-
-#
-### 08/08/2026 - [Seletiva USP](https://codeforces.com/gym/106636) - 5h
-
-Participamos da Seletiva USP e conseguimos ficar em segundo lugar da USP, conseguindo assim isenção para a participação na fase subregional da Maratona Brasileira de Programação! As posições dos times aparecem na aba standings. Nome do meu time: bing bing bing bong
+Os integrantes do MaratonUSP fizeram a [Maratona Feminina de Programação 2026](https://codeforces.com/group/9CNwiex6Ir/contest/708414) ao mesmo tempo. Acabei não tendo uma performance tão boa comparativamente, mas foi bem legal competir com as outras pessoas em tempo real.
 
 #
-### 09/08/2026 - [Codeforces Round 1116 (Div. 2)](https://codeforces.com/contest/2256) - 2h30
+### 08/08/2026 - Seletiva USP - 5h
 
-Consegui resolver até a questão C relativamente rápido. A questão D era um tipo de questão que tenho dificuldade, mas consegui resolver (apesar de ter demorado um pouco).
+Participamos da [Seletiva USP](https://codeforces.com/gym/106636) e conseguimos ficar em segundo lugar da USP, conseguindo assim isenção para a participação na fase subregional da Maratona Brasileira de Programação! As posições dos times aparecem na aba standings. Nome do meu time: bing bing bing bong
+
+#
+### 09/08/2026 - Contest - 2h30
+
+Fiz o [Codeforces Round 1116 (Div. 2)](https://codeforces.com/contest/2256). Consegui resolver até a questão C relativamente rápido. A questão D era um tipo de questão que tenho dificuldade, mas consegui resolver (apesar de ter demorado um pouco).
 
 #
 ### 10/09/2026 - Upsolving - 5h
@@ -86,17 +104,17 @@ Upsolving do problema F da [Seletiva USP](https://codeforces.com/gym/106636). Um
 Também aprendi a aplicar o Método Simplex, que estou aprendendo em Otimização Linear, em alguns problemas de Maratona, por meio dos problemas [Hexagons](https://codeforces.com/contest/1421/problem/D) e [Freelancer's Dreams](https://codeforces.com/contest/605/problem/C).
 
 #
-### 15/08/2026 - [Esquenta da Maratona de Programação 2026](https://esquenta-maratona-de-programa-o-2026.moj.naquadah.com.br/contest/score/?c=esquenta-maratona-de-programa-o-2026) - 5h
+### 15/08/2026 - Simulado - 5h
 
 Fiz o [Esquenta da Maratona de Programação 2026](https://esquenta-maratona-de-programa-o-2026.moj.naquadah.com.br/contest/score/?c=esquenta-maratona-de-programa-o-2026) em dupla, com um membro de outro time da Maratona Brasileira. Conseguimos fazer todos os problemas da prova e ficamos em 7º lugar entre os participantes. Durante a prova, meu computador desligou e travou enquanto eu codava o último problema, então eu expliquei a ideia para a minha dupla e ele escreveu o código enquanto eu ajudava, e no fim conseguimos passar o problema. A prova estava relativamente fácil, mas a experiência do último problema foi um bom desafio que tornou o processo mais divertido. Nome do time: Segment Tree 2D Persistente com Lazy Propagation.
 
 #
-### 16/08/2026 - [XIII Maratona Mineira de Programação](https://codeforces.com/gym/106552) - 5h
+### 16/08/2026 - Simulado - 5h
 
 Simulei a [XIII Maratona Mineira de Programação](https://codeforces.com/gym/106552) com meu time. Conseguimos ficar em 22º lugar entre os participantes, com mais 2 problemas que sabíamos resolver, mas não deu tempo de enviar a tempo. Apesar dessa frustração, gostamos bastante da nossa primeira experiência com a Maratona Mineira
 
 #
-### 17/08/2026 - Problema do Codeforces, Contest e [X Maratona Mineira de Programação](https://codeforces.com/group/YgJmumGtHD/contest/446227) - 7h30
+### 17/08/2026 - Problema do Codeforces, Contest e Simulado - 7h30
 
 Problema [Array Replacement](https://codeforces.com/contest/2252/problem/D), da faixa dos 1700 de rating
 
@@ -131,12 +149,12 @@ Estudei Teorema Chinês dos Restos. Aprendi o teorema e algumas aplicações por
 Problema [Equal Multisets (Hard Version)](https://codeforces.com/contest/2211/problem/C2), da faixa dos 1800 de rating
 
 #
-### 22/08/2026 - [IX Maratona Mineira](https://codeforces.com/group/YgJmumGtHD/contest/103794) e Upsolving - 6h
+### 22/08/2026 - Simulado e Upsolving - 6h
 
 Fiz a [IX Maratona Mineira de Programação](https://codeforces.com/group/YgJmumGtHD/contest/103794) em dupla, com um membro do meu time. Tínhamos uma ideia para o problema N (o mais difícil da prova), mas não conseguimos passar dentro das 5 horas. Após o fim da prova, fizemos o upsolving desse problema e conseguimos resolver.
 
 #
-### 23/08/2026 - [Fase Subregional de 2024](https://codeforces.com/gym/105327) - 5h
+### 23/08/2026 - Simulado - 5h
 Fiz a [Fase Subregional da Maratona de Programação de 2024](https://codeforces.com/gym/105327) junto com meu time. Tivemos um bom desempenho, ficando em 7º lugar em comparação com os times que fizeram a prova oficial. A prova tinha um problema difícil, que podia ser reduzido em vários sub-problemas, e um deles precisava de conhecimento em  strings, e ficamos bem felizes por resolver ele durante a prova.
 
 #
@@ -145,7 +163,7 @@ Fiz a [Fase Subregional da Maratona de Programação de 2024](https://codeforces
 Upsolving do problema M da [Fase Subregional da Maratona de Programação de 2022](https://codeforces.com/gym/103960).
 
 #
-### 25/08/2026 - [Ensaio da Maratona Brasileira de 2026](https://ensaio-times-2026.moj.naquadah.com.br/contest/score/?c=ensaio-times-2026) - 5h
+### 25/08/2026 - Simulado - 5h
 
 Fiz o [Ensaio da Maratona Brasileira de 2026](https://ensaio-times-2026.moj.naquadah.com.br/contest/score/?c=ensaio-times-2026), com um membro do meu time e um membro de outro time. Essa prova foi produzida pelo time da SBC para testar o novo ambiente de prova, e a prova em si era uma prova antiga produzida pela UnB. Fizemos a prova no nome do Murilo Kataoka, do meu time.
 
@@ -155,14 +173,14 @@ Fiz o [Ensaio da Maratona Brasileira de 2026](https://ensaio-times-2026.moj.naqu
 Resolvi as questões F, G, H e K do [Ensaio da Maratona Brasileira de 2026](https://codeforces.com/group/btcK4I5D5f/contest/564296) no Codeforces.
 
 #
-### 28/08/2026 - [I Maratona Nordestina de Programação](https://codeforces.com/gym/106667) - 5h
+### 28/08/2026 - Simulado - 5h
 
 Fiz a [I Maratona Nordestina de Programação](https://codeforces.com/gym/106667) com meu time. Essa foi a última prova que fizemos antes da Subregional
 
 #
-### 29/08/2026 - [Fase Subregional da Maratona Brasileira de Programação](https://animeitor.naquadah.com.br/?contest=brasil&sede=Brasil) - 5h
+### 29/08/2026 - Subregional - 5h
 
-Apesar de alguns problemas técnicos, conseguimos ficar em 3º da sede e 29º do Brasil. Infelizmente, dois problemas que sabíamos resolver não passaram, então não nos classificamos para Final Brasileira. O nome do nosso time é Tung Tung Tung Six Seven.
+Fizemos a [Fase Subregional da Maratona Brasileira de Programação](https://animeitor.naquadah.com.br/?contest=brasil&sede=Brasil). Apesar de alguns problemas técnicos, conseguimos ficar em 3º da sede e 29º do Brasil. Infelizmente, dois problemas que sabíamos resolver não passaram, então não nos classificamos para Final Brasileira. O nome do nosso time é Tung Tung Tung Six Seven.
 
 #
 ### 08/09/2026 - Contest e Upsolving - 4h
@@ -235,3 +253,8 @@ Continuei estudando Otimização de Knuth, e resolvi o problema [Optimal Binary 
 ### 30/09/2026 - Conteúdo - 1h
 
 Resolvi o problema [Breaking String](https://www.spoj.com/problems/BRKSTRNG/), que usa Otimização de Knuth.
+
+#
+### 02/10/2026 - Simulado - 5h
+
+Fiz o [2026 Argentinian Programming Tournament (TAP)](https://codeforces.com/gym/106682) com um membro do meu time e um membro de outro time. Ficamos bem felizes pois tivemos uma boa performance e resolvemos um problema bem difícil nos últimos minutos por conta do trabalho em equipe conjunto dos três.

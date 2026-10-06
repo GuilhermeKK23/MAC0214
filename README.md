@@ -43,7 +43,7 @@ Tempo total: 27h45min
 
 Provas em time: 5h
 
-Estudo de conteúdo: 0h
+Estudo de conteúdo: 3h
 
 Contests individuais, problemas do problemset e upsolving: 0h
 
@@ -258,3 +258,13 @@ Resolvi o problema [Breaking String](https://www.spoj.com/problems/BRKSTRNG/), q
 ### 02/10/2026 - Simulado - 5h
 
 Fiz o [2026 Argentinian Programming Tournament (TAP)](https://codeforces.com/gym/106682) com um membro do meu time e um membro de outro time. Ficamos bem felizes pois tivemos uma boa performance e resolvemos um problema bem difícil nos últimos minutos por conta do trabalho em equipe conjunto dos três.
+
+#
+### 05/10/2026 - Conteúdo - 2h
+
+Continuei estudando programação dinâmica. Fiz o problema R do [Educational DP Contest](https://atcoder.jp/contests/dp/tasks), que usa exponenciação de matrizes. Para fazer o problema S, comecei a estudar Digit DP. Usei o [USACO Guide](https://usaco.guide/gold/digit-dp?lang=cpp), um [blog do Codeforces](https://codeforces.com/blog/entry/53960) e o [Ultimate Topic List](https://youkn0wwho.academy/topic-list/digit_dp), e resolvi o problema [Counting Numbers](https://cses.fi/problemset/task/2220) do CSES.
+
+#
+### 06/10/2026 - Conteúdo - 1h
+
+Fiz o problema S do [Educational DP Contest](https://atcoder.jp/contests/dp/tasks).

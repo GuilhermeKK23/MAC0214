@@ -41,13 +41,13 @@ Tempo total: 27h45min
 
 ## Outubro
 
-Provas em time: 5h
+Provas em time: 10h
 
 Estudo de conteúdo: 3h
 
-Contests individuais, problemas do problemset e upsolving: 0h
+Contests individuais, problemas do problemset e upsolving: 2h
 
-Tempo total: 5h
+Tempo total: 0h
 
 #
 ### 03/08/2026 - Problema do Codeforces e Upsolving - 1h
@@ -273,3 +273,8 @@ Fiz o problema S do [Educational DP Contest](https://atcoder.jp/contests/dp/task
 ### 11/10/2026 - Simulado - 5h
 
 Fiz a [NWERC 2022](https://codeforces.com/gym/104875) com um membro do meu time e um membro de outro time. Ficamos bem felizes pois dos 12 problemas conseguimos resolver 11, e tínhamos uma ideia para resolver o último
+
+#
+### 12/10/2026 - Upsolving - 2h
+
+Upsolvei a F da [NWERC 2022](https://codeforces.com/gym/104875). A nossa ideia estava certa, mas era necessário lidar com vários casos que não percebemos na hora. Coloquei mais algumas funções úteis de geometria na lib

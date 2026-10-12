@@ -268,3 +268,8 @@ Continuei estudando programação dinâmica. Fiz o problema R do [Educational DP
 ### 06/10/2026 - Conteúdo - 1h
 
 Fiz o problema S do [Educational DP Contest](https://atcoder.jp/contests/dp/tasks).
+
+#
+### 11/10/2026 - Simulado - 5h
+
+Fiz a [NWERC 2022](https://codeforces.com/gym/104875) com um membro do meu time e um membro de outro time. Ficamos bem felizes pois dos 12 problemas conseguimos resolver 11, e tínhamos uma ideia para resolver o último

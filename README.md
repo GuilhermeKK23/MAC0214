@@ -41,11 +41,11 @@ Tempo total: 27h45min
 
 ## Outubro
 
-Provas em time: 10h
+Provas em time: 15h
 
 Estudo de conteúdo: 3h
 
-Contests individuais, problemas do problemset e upsolving: 2h
+Contests individuais, problemas do problemset e upsolving: 7h
 
 Tempo total: 0h
 
@@ -278,3 +278,23 @@ Fiz a [NWERC 2022](https://codeforces.com/gym/104875) com um membro do meu time 
 ### 12/10/2026 - Upsolving - 2h
 
 Upsolvei a F da [NWERC 2022](https://codeforces.com/gym/104875). A nossa ideia estava certa, mas era necessário lidar com vários casos que não percebemos na hora. Coloquei mais algumas funções úteis de geometria na lib
+
+#
+### 13/10/2026 - Contest - 2h
+
+Fiz o [Educational Codeforces Round 193 (Rated for Div. 2)](https://codeforces.com/contest/2253). Não consegui fazer o D, mas consegui fazer o E
+
+#
+### 14/10/2026 - Contest - 2h
+
+Fiz o [Educational Codeforces Round 195 (Rated for Div. 2)](https://codeforces.com/contest/2276). Consegui fazer até a D
+
+#
+### 15/10/2026 - Upsolving - 1h
+
+Upsolvei a E do [Educational Codeforces Round 195 (Rated for Div. 2)](https://codeforces.com/contest/2276)
+
+#
+### 17/10/2026 - Simulado - 5h
+
+Fiz a [XI Maratona Mineira](https://codeforces.com/group/YgJmumGtHD/contest/528947) com o meu time. Conseguimos fazer todos os problemas durante o contest

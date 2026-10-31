@@ -41,11 +41,11 @@ Tempo total: 27h45min
 
 ## Outubro
 
-Provas em time: 15h
+Provas em time: 20h
 
-Estudo de conteúdo: 3h
+Estudo de conteúdo: 10h
 
-Contests individuais, problemas do problemset e upsolving: 7h
+Contests individuais, problemas do problemset e upsolving: 13h
 
 Tempo total: 0h
 
@@ -298,3 +298,33 @@ Upsolvei a E do [Educational Codeforces Round 195 (Rated for Div. 2)](https://co
 ### 17/10/2026 - Simulado - 5h
 
 Fiz a [XI Maratona Mineira](https://codeforces.com/group/YgJmumGtHD/contest/528947) com o meu time. Conseguimos fazer todos os problemas durante o contest
+
+#
+### 23/10/2026 - Simulado - 5h
+
+Fiz a [XII Maratona Mineira](https://codeforces.com/group/YgJmumGtHD/contest/105936) com um membro do meu time.
+
+#
+### 24/10/2026 - Contest - 2h
+
+Fiz o [Codeforces Round 1129 (Div. 2)](https://codeforces.com/contest/2277). Consegui fazer até o C
+
+#
+### 25/10/2026 - Upsolving - 2h
+
+Upsolvei a D1 e a E do [Codeforces Round 1129 (Div. 2)](https://codeforces.com/contest/2277)
+
+#
+### 26/10/2026 - Contest - 2h
+
+Fiz o [Codeforces Round 1130 (Div. 2)](https://codeforces.com/contest/2272)
+
+#
+### 29/10/2026 - Conteúdo - 3h
+
+Revisei Hashing e criei um novo template de hashing para usar nos problemas. Revisei usando a [página do CP Algorithms](https://cp-algorithms.com/string/string-hashing.html) e fiz alguns problemas do CSES e do Ultimate Topic List. Fiz os problemas [String Hashing](https://open.kattis.com/problems/hashing), [String Matching](https://cses.fi/problemset/task/1753), [Finding Borders](https://cses.fi/problemset/task/1732), [Finding Periods](https://cses.fi/problemset/task/1733) e [Repeating Substring](https://cses.fi/problemset/task/2106)
+
+#
+### 30/10/2026 - Conteúdo - 2h
+
+Fiz os problemas [Minimal Rotation](https://cses.fi/problemset/task/1110), [Longest Palindrome](https://cses.fi/problemset/task/1111) e [Word Combinations](https://cses.fi/problemset/task/1731)

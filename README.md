@@ -322,7 +322,7 @@ Fiz o [Codeforces Round 1130 (Div. 2)](https://codeforces.com/contest/2272)
 #
 ### 29/10/2026 - Conteúdo - 3h
 
-Revisei Hashing e criei um novo template de hashing para usar nos problemas. Revisei usando a [página do CP Algorithms](https://cp-algorithms.com/string/string-hashing.html) e fiz alguns problemas do CSES e do Ultimate Topic List. Fiz os problemas [String Hashing](https://open.kattis.com/problems/hashing), [String Matching](https://cses.fi/problemset/task/1753), [Finding Borders](https://cses.fi/problemset/task/1732), [Finding Periods](https://cses.fi/problemset/task/1733) e [Repeating Substring](https://cses.fi/problemset/task/2106)
+Revisei Hashing e criei um [novo template de hashing](https://github.com/GuilhermeKK23/biblioteca/blob/master/Codigo/Strings/hashing.cpp) para usar nos problemas. Revisei usando a [página do CP Algorithms](https://cp-algorithms.com/string/string-hashing.html) e fiz alguns problemas do [CSES](https://cses.fi/problemset/) e do [Ultimate Topic List](https://youkn0wwho.academy/topic-list). Fiz os problemas [String Hashing](https://open.kattis.com/problems/hashing), [String Matching](https://cses.fi/problemset/task/1753), [Finding Borders](https://cses.fi/problemset/task/1732), [Finding Periods](https://cses.fi/problemset/task/1733) e [Repeating Substring](https://cses.fi/problemset/task/2106)
 
 #
 ### 30/10/2026 - Conteúdo - 2h

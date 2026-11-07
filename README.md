@@ -370,3 +370,8 @@ Resolvi o problema [Palindrome Degree](https://codeforces.com/problemset/problem
 ### 06/11/2026 - Contest - 2h15min
 
 Fiz o [Codeforces Round 1132 (Div. 2)](https://codeforces.com/contest/2284)
+
+#
+### 07/11/2026 - Contest - 2h30min
+
+Fiz o [Codeforces Round 1133 (Div. 2)](https://codeforces.com/contest/2280)

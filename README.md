@@ -47,6 +47,18 @@ Estudo de conteúdo: 10h
 
 Contests individuais, problemas do problemset e upsolving: 13h
 
+Tempo total: 33h
+
+#
+
+## Novembro
+
+Provas em time: 5h
+
+Estudo de conteúdo: 3h30min
+
+Contests individuais, problemas do problemset e upsolving: 2h15min
+
 Tempo total: 0h
 
 #
@@ -327,4 +339,34 @@ Revisei Hashing e criei um [novo template de hashing](https://github.com/Guilher
 #
 ### 30/10/2026 - Conteúdo - 2h
 
-Fiz os problemas [Minimal Rotation](https://cses.fi/problemset/task/1110), [Longest Palindrome](https://cses.fi/problemset/task/1111) e [Word Combinations](https://cses.fi/problemset/task/1731)
+Fiz os problemas [Minimal Rotation](https://cses.fi/problemset/task/1110), [Longest Palindrome](https://cses.fi/problemset/task/1111) e [Word Combinations](https://cses.fi/problemset/task/1731) com hashing
+
+#
+### 01/11/2026 - Simulado e Conteúdo - 6h
+
+Fiz a [NWERC 2021](https://codeforces.com/gym/104064) com meu time, e fiz os problemas [MUH and Cube Walls](https://codeforces.com/problemset/problem/471/D), [Good Substrings](https://codeforces.com/problemset/problem/271/D), [Password](https://codeforces.com/problemset/problem/126/B) e [Text Editor](https://codeforces.com/problemset/gymProblem/101466/E) com hashing
+
+#
+### 02/11/2026 - Conteúdo - 1h
+
+Resolvi o problema [Pop Divas](https://codeforces.com/problemset/gymProblem/101064/H) usando hashing
+
+#
+### 03/11/2026 - Conteúdo - 30min
+
+Resolvi o problema [Palindrome Queries](https://cses.fi/problemset/task/2420) usando hashing
+
+#
+### 04/11/2026 - Conteúdo - 30min
+
+Resolvi o problema [Scrabble](https://codeforces.com/problemset/gymProblem/106636/A) usando hashing
+
+#
+### 05/11/2026 - Conteúdo - 30min
+
+Resolvi o problema [Palindrome Degree](https://codeforces.com/problemset/problem/7/D) usando hashing
+
+#
+### 06/11/2026 - Contest - 2h15min
+
+Fiz o [Codeforces Round 1132 (Div. 2)](https://codeforces.com/contest/2284)

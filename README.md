@@ -57,7 +57,7 @@ Provas em time: 5h
 
 Estudo de conteúdo: 3h30min
 
-Contests individuais, problemas do problemset e upsolving: 2h15min
+Contests individuais, problemas do problemset e upsolving: 7h45min
 
 Tempo total: 0h
 
@@ -375,3 +375,13 @@ Fiz o [Codeforces Round 1132 (Div. 2)](https://codeforces.com/contest/2284)
 ### 07/11/2026 - Contest - 2h30min
 
 Fiz o [Codeforces Round 1133 (Div. 2)](https://codeforces.com/contest/2280)
+
+#
+### 08/11/2026 - Contest e Upsolving - 2h
+
+Fiz o [Codeforces Round 993 (Div. 4)](https://codeforces.com/contest/2044), upsolvei a D do [Codeforces Round 1133 (Div. 2)](https://codeforces.com/contest/2280) e upsolvei a H do [Codeforces Round 993 (Div. 4)](https://codeforces.com/contest/2044)
+
+#
+### 09/11/2026 - Contest - 1h
+
+Fiz o [Codeforces Round 799 (Div. 4)](https://codeforces.com/contest/1692)

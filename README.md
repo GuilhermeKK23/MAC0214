@@ -379,9 +379,14 @@ Fiz o [Codeforces Round 1133 (Div. 2)](https://codeforces.com/contest/2280)
 #
 ### 08/11/2026 - Contest e Upsolving - 2h
 
-Fiz o [Codeforces Round 993 (Div. 4)](https://codeforces.com/contest/2044), upsolvei a D do [Codeforces Round 1133 (Div. 2)](https://codeforces.com/contest/2280) e upsolvei a H do [Codeforces Round 993 (Div. 4)](https://codeforces.com/contest/2044)
+Fiz o [Codeforces Round 993 (Div. 4)](https://codeforces.com/contest/2044) inteiro, upsolvei a D do [Codeforces Round 1133 (Div. 2)](https://codeforces.com/contest/2280) e upsolvei a H do [Codeforces Round 993 (Div. 4)](https://codeforces.com/contest/2044)
 
 #
 ### 09/11/2026 - Contest - 1h
 
-Fiz o [Codeforces Round 799 (Div. 4)](https://codeforces.com/contest/1692)
+Fiz o [Codeforces Round 799 (Div. 4)](https://codeforces.com/contest/1692) inteiro
+
+#
+### 10/11/2026 - Contest - 1h
+
+Fiz o [Codeforces Round 806 (Div. 4)](https://codeforces.com/contest/1703) inteiro

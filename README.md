@@ -390,3 +390,8 @@ Fiz o [Codeforces Round 799 (Div. 4)](https://codeforces.com/contest/1692) intei
 ### 10/11/2026 - Contest - 1h
 
 Fiz o [Codeforces Round 806 (Div. 4)](https://codeforces.com/contest/1703) inteiro
+
+#
+### 11/11/2026 - Contest 1h30
+
+Fiz o [Codeforces Round 817 (Div. 4)](https://codeforces.com/contest/1722) inteiro

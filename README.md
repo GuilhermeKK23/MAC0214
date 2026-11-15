@@ -392,6 +392,22 @@ Fiz o [Codeforces Round 799 (Div. 4)](https://codeforces.com/contest/1692) intei
 Fiz o [Codeforces Round 806 (Div. 4)](https://codeforces.com/contest/1703) inteiro
 
 #
-### 11/11/2026 - Contest 1h30
+### 11/11/2026 - Contest - 1h30
 
 Fiz o [Codeforces Round 817 (Div. 4)](https://codeforces.com/contest/1722) inteiro
+
+#
+### 13/11/2026 - Contest, Upsolving e Simulado - 5h
+
+Fiz o [Codeforces Round 784 (Div. 4)](https://codeforces.com/contest/1669) inteiro e upsolvei a F do [Codeforces Round 859 (Div. 4)](https://codeforces.com/contest/1807).
+Também fiz a [Maratona Feminina de Programação 2025](https://codeforces.com/group/9CNwiex6Ir/contest/620475)
+
+#
+### 14/11/2026 - Contest - 1h
+
+Fiz o [Codeforces Round 871 (Div. 4)](https://codeforces.com/contest/1829) inteiro
+
+#
+### 15/11/2026 - Contest - 1h
+
+Fiz o [Codeforces Round 790 (Div. 4)](https://codeforces.com/contest/1676) inteiro 

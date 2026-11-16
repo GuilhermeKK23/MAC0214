@@ -367,9 +367,10 @@ Resolvi o problema [Scrabble](https://codeforces.com/problemset/gymProblem/10663
 Resolvi o problema [Palindrome Degree](https://codeforces.com/problemset/problem/7/D) usando hashing
 
 #
-### 06/11/2026 - Contest - 2h15min
+### 06/11/2026 - Contest e Conteúdo - 4h
 
-Fiz o [Codeforces Round 1132 (Div. 2)](https://codeforces.com/contest/2284)
+Fiz o [Codeforces Round 1132 (Div. 2)](https://codeforces.com/contest/2284).
+Dei uma aula de Hashing no encontro do MaratonUSP
 
 #
 ### 07/11/2026 - Contest - 2h30min
@@ -397,9 +398,10 @@ Fiz o [Codeforces Round 806 (Div. 4)](https://codeforces.com/contest/1703) intei
 Fiz o [Codeforces Round 817 (Div. 4)](https://codeforces.com/contest/1722) inteiro
 
 #
-### 13/11/2026 - Contest, Upsolving e Simulado - 5h
+### 13/11/2026 - Contest, Upsolving, Conteúdo e Simulado - 6h
 
 Fiz o [Codeforces Round 784 (Div. 4)](https://codeforces.com/contest/1669) inteiro e upsolvei a F do [Codeforces Round 859 (Div. 4)](https://codeforces.com/contest/1807).
+Tive uma aula de KMP no encontro do MaratonUSP.
 Também fiz a [Maratona Feminina de Programação 2025](https://codeforces.com/group/9CNwiex6Ir/contest/620475)
 
 #
@@ -408,6 +410,11 @@ Também fiz a [Maratona Feminina de Programação 2025](https://codeforces.com/g
 Fiz o [Codeforces Round 871 (Div. 4)](https://codeforces.com/contest/1829) inteiro
 
 #
-### 15/11/2026 - Contest - 1h
+### 15/11/2026 - Contest e Upsolving - 1h30
 
-Fiz o [Codeforces Round 790 (Div. 4)](https://codeforces.com/contest/1676) inteiro 
+Fiz o [Codeforces Round 790 (Div. 4)](https://codeforces.com/contest/1676) inteiro e upsolvei a G do [Codeforces Round 835 (Div. 4)](https://codeforces.com/contest/1760)
+
+#
+### 16/11/2026 - Contest - 1h30
+
+Fiz o [Codeforces Round 964 (Div. 4)](https://codeforces.com/contest/1999) inteiro

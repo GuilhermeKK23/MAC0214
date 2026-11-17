@@ -418,3 +418,8 @@ Fiz o [Codeforces Round 790 (Div. 4)](https://codeforces.com/contest/1676) intei
 ### 16/11/2026 - Contest, Upsolving e Simulado - 9h
 
 Fiz o [Codeforces Round 964 (Div. 4)](https://codeforces.com/contest/1999) inteiro, upsolvei a E, G e I da [MFP 2025](https://codeforces.com/group/9CNwiex6Ir/contest/620475) e fiz a [Moscow Subregional 2021](https://codeforces.com/gym/104848) com membros de outro time. Tivemos um ótimo desempenho nessa prova, pois conseguimos fazer vários problemas difíceis e ficamos bem classificados
+
+#
+### 17/11/2026 - Upsolving - 3h
+
+Fiz a L e M da [Moscow Subregional 2021](https://codeforces.com/gym/104848), upsolvei a D da [MFP 2025](https://codeforces.com/group/9CNwiex6Ir/contest/620475) e terminei o [Codeforces Round 898 (Div. 4)](https://codeforces.com/contest/1873)

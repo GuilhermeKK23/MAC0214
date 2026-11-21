@@ -428,3 +428,13 @@ Fiz a L e M da [Moscow Subregional 2021](https://codeforces.com/gym/104848), ups
 ### 18/11/2026 - Contest e Upsolving - 3h
 
 Fiz o [Codeforces Round 937 (Div. 4)](https://codeforces.com/contest/1950) inteiro e terminei os exercícios que faltavam do [Codeforces Round 835 (Div. 4)](https://codeforces.com/contest/1760), [Codeforces Round 827 (Div. 4)](https://codeforces.com/contest/1742) e [Codeforces Round 1090 (Div. 4)](https://codeforces.com/contest/2218)
+
+#
+### 19/11/2026 - Contest - 2h
+
+Fiz o [Codeforces Round 928 (Div. 4)](https://codeforces.com/contest/1926) inteiro
+
+#
+### 20/11/2026 - Simulado e Contest - 7h
+
+Fiz o [Codeforces Round 944 (Div. 4)](https://codeforces.com/contest/1971) inteiro e simulei a [Final Brasileira 2026](https://moj.naquadah.com.br/treino/virtual/?c=icpc-latam-finals-2026) com meu time, fizemos 10 problemas e teríamos nos classificado para a prova da América Latina

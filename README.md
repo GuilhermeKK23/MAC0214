@@ -438,3 +438,13 @@ Fiz o [Codeforces Round 928 (Div. 4)](https://codeforces.com/contest/1926) intei
 ### 20/11/2026 - Simulado e Contest - 7h
 
 Fiz o [Codeforces Round 944 (Div. 4)](https://codeforces.com/contest/1971) inteiro e simulei a [Final Brasileira 2026](https://moj.naquadah.com.br/treino/virtual/?c=icpc-latam-finals-2026) com meu time, fizemos 10 problemas e teríamos nos classificado para a prova da América Latina
+
+#
+### 21/11/2026 - Contest - 2h
+
+Fiz o [Codeforces Round 1136 (Div. 2)](https://codeforces.com/contest/2288)
+
+#
+### 22/11/2026 - Contests - 4h
+
+Fiz o [Codeforces Round 1137 (Div. 2)](https://codeforces.com/contest/2289) e o [Codeforces Round 952 (Div. 4)](https://codeforces.com/contest/1985) inteiro

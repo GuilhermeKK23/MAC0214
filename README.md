@@ -448,3 +448,13 @@ Fiz o [Codeforces Round 1136 (Div. 2)](https://codeforces.com/contest/2288)
 ### 22/11/2026 - Contests - 4h
 
 Fiz o [Codeforces Round 1137 (Div. 2)](https://codeforces.com/contest/2289) e o [Codeforces Round 952 (Div. 4)](https://codeforces.com/contest/1985) inteiro
+
+#
+### 23/11/2026 - Contest e Upsolving - 3h
+
+Fiz o [Codeforces Round 1134 (Div. 4)](https://codeforces.com/contest/2290). Fiz até o G1 durante o contest, depois upsolvei o G2, tentei fazer o H mas ainda não consegui
+
+#
+### 24/11/2026 - Contest e Upsolving - 3h
+
+Fiz o [Codeforces Round 1074 (Div. 4)](https://codeforces.com/contest/2185). Fiz até o F durante o contest, depois upsolvei o G. Tentei fazer o H mas ainda não consegui

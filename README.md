@@ -463,3 +463,14 @@ Fiz o [Codeforces Round 1074 (Div. 4)](https://codeforces.com/contest/2185). Fiz
 ### 25/11/2026 - Contest e Upsolving - 3h
 
 Fiz o [Codeforces Round 971 (Div. 4)](https://codeforces.com/contest/2009) e upsolvei a G2 do [Codeforces Round 849 (Div. 4)](https://codeforces.com/contest/1791)
+
+#
+### 26/11/2026 - Upsolving - 2h
+
+Upsolvei a G1 e G2 do [Codeforces Round 971 (Div. 4)](https://codeforces.com/problemset/problem/2009/G1)
+
+#
+### 27/11/2026 - Contest e Conteúdo - 6h
+
+Fiz o [Codeforces Round 1138 (Div. 3)](https://codeforces.com/contest/2292).
+Criei um template para Aho-Corasick e fiz os problemas [Finding Patterns](https://cses.fi/problemset/task/2102), [Counting Patterns](https://cses.fi/problemset/task/2103), [Pattern Positions](https://cses.fi/problemset/task/2104) e [Word Puzzles](https://www.spoj.com/problems/WPUZZLES/). Eu tinha entendido a ideia por trás do algoritmo, agora finalmente entendi o código o bastante para conseguir codar sozinho. O último problema foi bem legal, pois além de ser necessário entender como funciona o autômato, também era um problema bem difícil de implementar.
